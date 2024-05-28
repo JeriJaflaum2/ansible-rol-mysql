@@ -1,2 +1,15 @@
 ---
 dependencies: []
+
+galaxy_info:
+  author: Jeri Jaflaum
+  description: Mysql
+  company: Windesheim
+  license: license (optioneel, bijv. MIT)
+  min_ansible_version: minimaal vereiste Ansible-versie (optioneel)
+  platforms:
+    - name: Linux
+      versions:
+        - all
+  galaxy_tags:
+    - db
